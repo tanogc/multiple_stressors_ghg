@@ -8,9 +8,8 @@ This code re-creates analysis of the field and experimental data
 
 Please, use this citation to reference the database:
 ```
-Gutiérrez-Cánovas, C., von Schiller, D., Pace, G., Gómez-Gener, L.,
-& Pascoal, C. Multiple stressors alter greenhouse gas concentrations
-in streams through local and distal processes.
+Gutiérrez-Cánovas, C., von Schiller, D., Pace, G., Gómez-Gener, L., & Pascoal, C.
+Multiple stressors alter greenhouse gas concentrations in streams through local and distal processes.
 Global Change Biology (accepted)
 ```
 
