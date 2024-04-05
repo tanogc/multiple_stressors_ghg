@@ -14,13 +14,13 @@ concentrations in streams through local and distal processes. Global Change Biol
 
 # R files description:
 
-* #0_calculating DO_def & GHG ratios.R:# R code to calculate DO deficit and GHG ratios
-* #0_part_r2.R:# R function to perform variance partition for multiple models
-* #1_preparing&exploring_data.R:# R code to prepare data and produce exploratory plots
-* #2_multimodel_inference.R:# R script to explore the effects and importance of stressors and hydrology on stream metabolism and GHG concentrations
-* #3_SEMs.R:# R script to assess the scales at which stressors influence the local stream concentrations of CO2 and CH4
-* #4_scenarios.R:# R script to generate the CO2-equivalent concentrations for different combinations of dissolved inorganic nitrogen concentrations an dissolved oxygen deficit.
-* #dat.txt:# data used to produce the results presented in the study, including stressors, discharge, metabolic rates and concentrations and emissions of greenhouse gases
+* **0_calculating DO_def & GHG ratios.R:** R code to calculate DO deficit and GHG ratios
+* **0_part_r2.R:** R function to perform variance partition for multiple models
+* **1_preparing&exploring_data.R:** R code to prepare data and produce exploratory plots
+* **2_multimodel_inference.R:** R script to explore the effects and importance of stressors and hydrology on stream metabolism and GHG concentrations
+* **3_SEMs.R:** R script to assess the scales at which stressors influence the local stream concentrations of CO2 and CH4
+* **4_scenarios.R:** R script to generate the CO2-equivalent concentrations for different combinations of dissolved inorganic nitrogen concentrations an dissolved oxygen deficit.
+* **dat.txt:** data used to produce the results presented in the study, including stressors, discharge, metabolic rates and concentrations and emissions of greenhouse gases
 
 
 ```
