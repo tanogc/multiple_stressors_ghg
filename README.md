@@ -24,5 +24,5 @@ concentrations in streams through local and distal processes. Global Change Biol
 
 
 ```
-Please, send questions or problems related with the use of this code to Cayetano Gutiérrez-Cánovas (cayetano.gutierrez@urjc.es).
+Please, send questions related with the use of this code to Cayetano Gutiérrez-Cánovas (cayetano.gutierrez@urjc.es).
 
