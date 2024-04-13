@@ -20,7 +20,11 @@ concentrations in streams through local and distal processes. Global Change Biol
 * **2_multimodel_inference.R:** R script to explore the effects and importance of stressors and hydrology on stream metabolism and GHG concentrations
 * **3_SEMs.R:** R script to assess the scales at which stressors influence the local stream concentrations of CO2 and CH4
 * **4_scenarios.R:** R script to generate the CO2-equivalent concentrations for different combinations of dissolved inorganic nitrogen concentrations an dissolved oxygen deficit.
-* **dat.txt:** data used to produce the results presented in the study, including stressors, discharge, metabolic rates and concentrations and emissions of greenhouse gases
+
+# Database description:
+* **dat.txt:** data used to produce the results presented in the study, including stressors, discharge, , metabolic rates and concentrations and emissions of greenhouse gases.
+* **read_me.xlsx:** dataset used to reproduce the results, including the description of the variables and their units
+* **folder dissolved_oxygen_data:** measures of dissolved oxygen and water temperature used to calculate the metabolic rates of each site
 
 
 ```
