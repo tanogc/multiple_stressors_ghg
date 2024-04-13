@@ -24,7 +24,7 @@ concentrations in streams through local and distal processes. Global Change Biol
 # Database description:
 * **dat.txt:** data used to produce the results presented in the study, including stressors, discharge, , metabolic rates and concentrations and emissions of greenhouse gases.
 * **read_me.xlsx:** sheet dat: dataset used to reproduce the results. sheet variable codes: description and units of the variables
-* **folder dissolved_oxygen_data:** measures of dissolved oxygen and water temperature used to calculate the metabolic rates of each site
+* **folder dissolved_oxygen_data:** measures of dissolved oxygen and water temperature used to calculate the metabolic rates of each site (site01.txt to site50.txt)
 
 
 ```
